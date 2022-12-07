@@ -1,0 +1,51 @@
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.csproj.AssemblyReference.cache
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\App.g.cs
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack_MarkupCompile.cache
+C:\Users\Redux\source\repos\blackJack\blackJack\bin\Debug\blackJack.exe.config
+C:\Users\Redux\source\repos\blackJack\blackJack\bin\Debug\blackJack.exe
+C:\Users\Redux\source\repos\blackJack\blackJack\bin\Debug\blackJack.pdb
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\MainWindow.g.cs
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack_MarkupCompile.lref
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\MainWindow.baml
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.g.resources
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.Properties.Resources.resources
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.csproj.GenerateResource.cache
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.csproj.CoreCompileInputs.cache
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.exe
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack.pdb
+C:\Users\Redux\source\repos\blackJack\blackJack\obj\Debug\blackJack_Content.g.cs
+D:\project c#\blackJack\blackJack\bin\Debug\blackJack.exe.config
+D:\project c#\blackJack\blackJack\bin\Debug\blackJack.exe
+D:\project c#\blackJack\blackJack\bin\Debug\blackJack.pdb
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.AssemblyReference.cache
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.SuggestedBindingRedirects.cache
+D:\project c#\blackJack\blackJack\obj\Debug\MainWindow.g.cs
+D:\project c#\blackJack\blackJack\obj\Debug\App.g.cs
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack_Content.g.cs
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack_MarkupCompile.cache
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack_MarkupCompile.lref
+D:\project c#\blackJack\blackJack\obj\Debug\MainWindow.baml
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.g.resources
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.Properties.Resources.resources
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.GenerateResource.cache
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.CoreCompileInputs.cache
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.exe
+D:\project c#\blackJack\blackJack\obj\Debug\blackJack.pdb
+E:\project c#\blackJack\blackJack\bin\Debug\blackJack.exe.config
+E:\project c#\blackJack\blackJack\bin\Debug\blackJack.exe
+E:\project c#\blackJack\blackJack\bin\Debug\blackJack.pdb
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.AssemblyReference.cache
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.SuggestedBindingRedirects.cache
+E:\project c#\blackJack\blackJack\obj\Debug\MainWindow.g.cs
+E:\project c#\blackJack\blackJack\obj\Debug\App.g.cs
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack_Content.g.cs
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack_MarkupCompile.cache
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack_MarkupCompile.lref
+E:\project c#\blackJack\blackJack\obj\Debug\MainWindow.baml
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.g.resources
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.Properties.Resources.resources
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.GenerateResource.cache
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.csproj.CoreCompileInputs.cache
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.exe
+E:\project c#\blackJack\blackJack\obj\Debug\blackJack.pdb
